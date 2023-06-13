@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @anand-pro-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- People call Genius
+
+as well as 
+
+Anand Pro Dev
+
+https://aanandprodev.github.io/My_CV/
 
 <!---
 anand-pro-dev/anand-pro-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
