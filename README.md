@@ -5,7 +5,7 @@ as well as
 
 Anand Pro Dev
 
-https://aanandprodev.github.io/My_CV/
+ https://anand-pro-dev.github.io/My_CV/
 
 <!---
 anand-pro-dev/anand-pro-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
