@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Sr. Software developer from India</h3>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://cdn3d.iconscout.com/3d/premium/thumb/cv-10091061-8179050.png' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://anand-pro-dev.github.io/My_CV/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://cdn3d.iconscout.com/3d/premium/thumb/cv-10091061-8179050.png' border='0' alt='Download my CV' /></a>
 </div>
 
 
