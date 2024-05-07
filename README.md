@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://anand-pro-dev.github.io/My_CV/" target="_blank" style="text-decoration: none;">
     <div style="display: inline-block; padding: 10px 20px; border: 2px solid white; border-radius: 10px; background-color: #007bff; color: white; cursor: pointer;">
-    <p style="font-size:160%;">This is a paragraph.</p>
+<p style="font-size:160%; color:white;">This is a paragraph.</p>
     </div>
   </a>
 </div>
