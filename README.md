@@ -7,8 +7,13 @@
 
 
 <div align="center">
-  <a href="https://anand-pro-dev.github.io/My_CV/" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid blue; border-radius: 5px; background-color: blue; color: white; text-decoration: none; cursor: pointer;">Download My CV</a>
+  <a href="https://anand-pro-dev.github.io/My_CV/" target="_blank" style="text-decoration: none;">
+    <div style="display: inline-block; padding: 10px 20px; border: 2px solid #007bff; border-radius: 50px;">
+      <span style="color: #007bff;">Download My CV</span>
+    </div>
+  </a>
 </div>
+
 
 
 
