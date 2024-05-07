@@ -6,7 +6,11 @@
 <h3 align="center">A passionate Sr. Software developer from India</h3>
 
 
-<h2 align="center"> download My CV **https://anand-pro-dev.github.io/My_CV/** </h2>
+<p align="center">
+  <a href="https://anand-pro-dev.github.io/My_CV/" target="_blank">
+    <h2>Download My CV</h2>
+  </a>
+</p>
 
 
 
