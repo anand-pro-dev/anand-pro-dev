@@ -6,11 +6,8 @@
 <h3 align="center">A passionate Sr. Software developer from India</h3>
 
 <div align="center">
-  <a href="https://anand-pro-dev.github.io/My_CV/" target="_blank" style="text-decoration: none; color: white;">
-    <div style="display: inline-block; padding: 10px 20px; border: 2px solid white; border-radius: 10px;">
-      <h1 style="margin: 0;">Download My CV</h1>
-    </div>
-  </a>
+<a href='![image](https://github.com/anand-pro-dev/anand-pro-dev/assets/110709876/c3448481-aa27-490d-82a0-73245dc36a35)
+' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 
