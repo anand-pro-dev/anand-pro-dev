@@ -13,10 +13,11 @@
 <div align="center">
   <a href="https://anand-pro-dev.github.io/My_CV/" target="_blank" style="text-decoration: none;">
     <div style="display: inline-block; padding: 10px 20px; border: 2px solid white; border-radius: 10px; background-color: #007bff; color: white; cursor: pointer;">
-      <span style="font-size: 26px;">Download My CV</span>
+      <span style="font-size: 26px; colour: white;">Download My CV</span>
     </div>
   </a>
 </div>
+
 
 
 <br>
