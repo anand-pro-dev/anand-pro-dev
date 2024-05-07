@@ -7,10 +7,9 @@
 
 
 <div align="center">
-  <a href="https://anand-pro-dev.github.io/My_CV/" target="_blank" style="text-decoration: none;">
-    <button style="background-color: transparent; border: none; color: blue; text-decoration: underline; cursor: pointer;">Download My CV</button>
-  </a>
+  <a href="https://anand-pro-dev.github.io/My_CV/" target="_blank" style="display: inline-block; padding: 10px 20px; border: 1px solid blue; border-radius: 5px; background-color: blue; color: white; text-decoration: none; cursor: pointer;">Download My CV</a>
 </div>
+
 
 
 
