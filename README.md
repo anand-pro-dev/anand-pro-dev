@@ -6,14 +6,8 @@
 <h3 align="center">A passionate Sr. Software developer from India</h3>
 
 <div align="center">
-<a href='![image](https://github.com/anand-pro-dev/anand-pro-dev/assets/110709876/c3448481-aa27-490d-82a0-73245dc36a35)
-' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='[https://storage.ko-fi.com/cdn/kofi1.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaXUT1kNzhshA6ETBZfeLeBXWy_uGM266_v31uPc9yU4vwICrRRNuZvh05E0w5Z7aphL8&usqp=CAU)?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
-
-
-
-
-
 
 
 <br>
